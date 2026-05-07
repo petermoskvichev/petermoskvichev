@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi I'm Peter
+
+Here you can find a subset of the projects I've worked on.
+
+Check out more details here: petermoskvichev.github.io
 
 <!--
 **petermoskvichev/petermoskvichev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
